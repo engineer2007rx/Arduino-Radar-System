@@ -25,7 +25,7 @@ This is a beginner-friendly Arduino project that I built using an ultrasonic sen
 1. Upload the Arduino sketch from the `Arduino` folder.
 2. Install dependencies:
    ```bash
-   python -m pip install -r requirements.txt
+   python -m pip install -r requirement.txt
    ```
 3. Set the correct COM port in `radar.py`.
 4. Close Arduino Serial Monitor.
